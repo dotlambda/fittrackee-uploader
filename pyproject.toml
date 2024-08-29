@@ -146,7 +146,7 @@ exclude = [
   "build",
   "dist",
   "venv",
-  "fittrackee-uploads/ui/login.py"
+  "fittrackee_uploads/ui/login.py"
 ]
 # per-file-ignores = []
 line-length = 120
